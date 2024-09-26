@@ -1,4 +1,21 @@
-## Hi there 👋
+# **DOKI DOKI IT CLUB**
+### A group of Russian students developing.. Bokoki
+
+> [!WARNING]
+> You don't know what is Bokoki.
+
+### Team:
+
+Development:
+- @KatCote (Server, Linux Client -> C)
+- @Andrax (Windows Client, Android Client -> Java)
+- @DjTj
+
+Testing:
+- @Madao
+- @Rif4tt
+
+Well.. It's all
 
 <!--
 
