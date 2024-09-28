@@ -7,13 +7,8 @@
 ### Team:
 
 Development:
-- @KatCote (Server, Linux Client -> C)
+- @KatCote (Linux Server, Linux Client -> C)
 - @Andrax (Windows Client, Android Client -> Java)
-- @DjTj
-
-Testing:
-- @Madao
-- @Rif4tt
 
 Well.. It's all
 
