@@ -9,6 +9,7 @@
 Development:
 - @KatCote (Linux Server, Linux Client -> C)
 - @Andrax (Windows Client, Android Client -> Java)
+- @Djambek (Information Security)
 
 Well.. It's all
 
