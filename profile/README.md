@@ -1,4 +1,4 @@
-# **DOKI DOKI IT CLUB**
+# [![Doki-Doki-IT-Club-03-11-2024.png](https://i.postimg.cc/HsXfpx3W/Doki-Doki-IT-Club-03-11-2024.png)](https://postimg.cc/PPf6ydB0)
 ### A group of Russian students developing.. Bokoki
 
 > [!WARNING]
@@ -9,7 +9,6 @@
 Development:
 - @KatCote (Linux Server, Linux Client -> C)
 - @Andrax (Windows Client, Android Client -> Java)
-- @Djambek (Information Security)
 
 Well.. It's all
 
